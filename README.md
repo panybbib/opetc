@@ -1,0 +1,2 @@
+# opetc
+openwrt etc  sync
