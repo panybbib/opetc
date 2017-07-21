@@ -2759,13 +2759,13 @@ fe80::1%lo0	localhost
 127.0.0.1	www.cnetdirectintl.com
 127.0.0.1	www91.intel.com
 #live.com
-127.0.0.1	analytics.live.com
-127.0.0.1	c.live.com
-127.0.0.1	digg.analytics.live.com
-127.0.0.1	ms.analytics.live.com
-127.0.0.1	rad.live.com
-127.0.0.1	watson.live.com
-127.0.0.1	msnportal.112.2o7.net
+#127.0.0.1	analytics.live.com
+#127.0.0.1	c.live.com
+#127.0.0.1	digg.analytics.live.com
+#127.0.0.1	ms.analytics.live.com
+#127.0.0.1	rad.live.com
+#127.0.0.1	watson.live.com
+#127.0.0.1	msnportal.112.2o7.net
 #lycos.com
 127.0.0.1	adbuyer3.lycos.com
 127.0.0.1	ads.tripod.lycos.de
