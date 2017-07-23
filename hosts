@@ -275,9 +275,9 @@ fe80::1%lo0	localhost
 127.0.0.1	dup.baidustatic.com
 127.0.0.1	ubmcmm.baidustatic.com
 #baidu-news
-127.0.0.1	cpu.baidu.com
-127.0.0.1	cpu-admin.baidu.com
-127.0.0.1	hpd.baidu.com
+#127.0.0.1	cpu.baidu.com
+#127.0.0.1	cpu-admin.baidu.com
+#127.0.0.1	hpd.baidu.com
 127.0.0.1	feed.baidu.com
 #baidu-map
 127.0.0.1	dcps.nuomi.com
