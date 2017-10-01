@@ -7,6 +7,11 @@
 ::1	localhost
 255.255.255.255	broadcasthost
 
+2404:6800:4008:c02::11  scholar.googleusercontent.com
+2404:6800:4008:c02::11  scholar.google.cn
+2404:6800:4008:c02::11  scholar.google.com
+2404:6800:4008:c02::11  scholar.google.com.hk
+
 # Section Start: activation
 127.0.0.1	pd6.blist.parallels.com
 127.0.0.1	pd7.blist.parallels.com
