@@ -4205,7 +4205,7 @@
 2600:9000:2012:4400:8:1cb7:c900:93a1	dc8xl0ndzn2cb.cloudfront.net
 
 
-#	Section	Start:	activation
+#Section Start: activation
 127.0.0.1	pd6.blist.parallels.com
 127.0.0.1	pd7.blist.parallels.com
 127.0.0.1	pdfm7.blist.parallels.com
@@ -4233,7 +4233,7 @@
 #127.0.0.1	iws.corel.com
 #127.0.0.1	www.mindjet.com
 #127.0.0.1	mindjet.com
-#	Section	End:	activation
+#Section End: activation
 
 #adobe
 127.0.0.1	activate.adobe.com
@@ -4294,7 +4294,7 @@
 127.0.0.1	macplatform.wondershare.com
 127.0.0.1	platform.wondershare.com
 
-#ads-off	start
+#ads-off start	
 #base-163	
 #163-news	
 127.0.0.1	e-p4p.163.com
@@ -11198,9 +11198,9 @@
 127.0.0.1	hp.smiler-ad.com
 127.0.0.1	static8.pmadx.com
 127.0.0.1	www.bfshan.cn
-#ads-off	end
+#ads-off end
 
-#	Other	Start
+# Other Start
 104.24.118.4	btdb.in
 169.46.12.69	batch.upsight-api.com
 169.46.12.88	batch.upsight-api.com
@@ -11222,26 +11222,26 @@
 110.4.24.178	api.crittercism.com
 110.4.24.178	appload.ingest.crittercism.com
 110.4.24.178	txn.ingest.crittercism.com
-#	Other	End
+# Other End
 
-#	Appannie	Start
+# Appannie Start
 69.167.138.64	www.appannie.com
 69.167.138.64	appannie.com
-#	Appannie	End
+# Appannie End
 
-#	vectorstock	Start
+# vectorstock Start
 192.229.144.147	www.vectorstock.com
 192.229.144.147	vectorstock.com
 192.229.144.147	cdn.vectorstock.com
 192.229.144.147	download.vectorstock.com
-#	vectorstock	End
+# vectorstock End
 
-#	dxomark	Start
+# dxomark Start
 5.196.172.196	www.dxomark.com
 43.245.63.22	cdn.dxomark.com
-#	dxomark	End
+# dxomark End
 
-#	xda-developers
+# xda-developers
 43.249.37.246	cdn1.xda-developers.com
 43.249.37.246	cdn2.xda-developers.com
 43.249.37.246	cdn3.xda-developers.com
@@ -11252,9 +11252,9 @@
 68.232.44.229	wac.8244.edgecastcdn.net
 209.58.128.90	www.xda-developers.com
 209.58.128.90	xda-developers.com
-#	xda-developers
+# xda-developers
 
-#	pinterest	Start
+# pinterest Start
 151.101.64.84	pinterest.com
 151.101.64.84	www.pinterest.com
 151.101.64.84	www.pinterest.jp
@@ -11306,9 +11306,9 @@
 151.101.192.84	v.pinimg.com
 151.101.192.84	s-media-cache-ak0.pinimg.com
 52.203.245.216	developers.pinterest.com
-#	pinterest	End
+# pinterest End
 
-#	SoundCloud	Start
+# SoundCloud Start
 72.21.91.127	soundcloud.com
 72.21.91.127	www.soundcloud.com
 72.21.91.127	m.soundcloud.com
@@ -11330,24 +11330,24 @@
 72.21.81.77	ec-media.sndcdn.com
 52.84.200.202	eventgateway.soundcloud.com
 52.84.200.202	telemetry.soundcloud.com
-#	SoundCloud	End
+# SoundCloud End
 
-#	VOA	Start
+# VOA Start
 23.42.169.61	www.voachinese.com
 23.42.169.61	gdb.voanews.com
 23.42.169.61	av.voanews.com
-#	VOA	End
+# VOA End
 
-#	W3schools	Start
+# W3schools Start
 192.229.173.207	w3schools.com
 192.229.173.207	www.w3schools.com
-#	W3schools	End
+# W3schools End
 
-#	Xboxlive	Start
+# Xboxlive Start
 134.170.178.89	achievements.xboxlive.com
-#	Xboxlive	End
+# Xboxlive End
 
-#	Yahoo	Start
+# Yahoo Start
 202.43.194.205	c5.ah.yahoo.com
 202.43.194.205	edit.yahoo.com
 202.43.194.205	na.edit.yahoo.com
@@ -11398,4 +11398,4 @@
 27.123.200.67	search.yahoo.com
 27.123.200.67	hk.search.yahoo.com
 27.123.200.67	tw.search.yahoo.com
-#	Yahoo	End
+# Yahoo End
