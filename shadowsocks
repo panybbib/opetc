@@ -25,8 +25,8 @@ config servers
 	option timeout '60'
 	option server '104.168.157.33'
 	option encrypt_method 'rc4-md5'
-	option server_port '15999'
-	option password '083107'
+	option server_port ''
+	option password ''
 
 config servers
 	option alias 'SS-US2'
@@ -34,8 +34,8 @@ config servers
 	option timeout '60'
 	option server '45.76.29.162'
 	option encrypt_method 'rc4-md5'
-	option server_port '15999'
-	option password '083107'
+	option server_port ''
+	option password ''
 
 config servers
 	option alias 'SS-JP'
@@ -43,8 +43,8 @@ config servers
 	option timeout '60'
 	option server '45.63.123.251'
 	option encrypt_method 'rc4-md5'
-	option server_port '15999'
-	option password '083107'
+	option server_port ''
+	option password ''
 
 config servers
 	option alias 'SS-HK'
@@ -52,8 +52,8 @@ config servers
 	option timeout '60'
 	option server '58.82.205.117'
 	option encrypt_method 'rc4-md5'
-	option server_port '15999'
-	option password '083107'
+	option server_port ''
+	option password ''
 
 config servers
 	option alias 'SS-HK2'
@@ -61,8 +61,8 @@ config servers
 	option timeout '60'
 	option server '203.78.141.141'
 	option encrypt_method 'rc4-md5'
-	option server_port '15999'
-	option password '083107'
+	option server_port ''
+	option password ''
 
 config servers
 	option alias 'SS-Free'
@@ -70,8 +70,8 @@ config servers
 	option timeout '60'
 	option server '45.62.231.129'
 	option encrypt_method 'rc4-md5'
-	option server_port '15999'
-	option password '083107'
+	option server_port ''
+	option password ''
 
 config servers
 	option alias 'SS-Free2'
@@ -79,8 +79,8 @@ config servers
 	option timeout '60'
 	option server '64.137.163.27'
 	option encrypt_method 'rc4-md5'
-	option server_port '15999'
-	option password '083107'
+	option server_port ''
+	option password ''
 
 config access_control
 	option self_proxy '1'
