@@ -1,0 +1,89 @@
+
+config general
+	option startup_delay '0'
+
+config transparent_proxy
+	option udp_relay_server 'same'
+	option local_port '8088'
+	option mtu '1492'
+	list main_server 'cfg0a4a8f'
+
+config socks5_proxy
+	option local_port '1080'
+	option mtu '1492'
+	list server 'cfg084a8f'
+
+config port_forward
+	list server 'nil'
+	option local_port '5300'
+	option destination '185.121.177.177:5353'
+	option mtu '1492'
+
+config servers
+	option alias 'SS-US'
+	option fast_open '0'
+	option timeout '60'
+	option server '104.168.157.33'
+	option encrypt_method 'rc4-md5'
+	option server_port '15999'
+	option password '083107'
+
+config servers
+	option alias 'SS-US2'
+	option fast_open '0'
+	option timeout '60'
+	option server '45.76.29.162'
+	option encrypt_method 'rc4-md5'
+	option server_port '15999'
+	option password '083107'
+
+config servers
+	option alias 'SS-JP'
+	option fast_open '0'
+	option timeout '60'
+	option server '45.63.123.251'
+	option encrypt_method 'rc4-md5'
+	option server_port '15999'
+	option password '083107'
+
+config servers
+	option alias 'SS-HK'
+	option fast_open '0'
+	option timeout '60'
+	option server '58.82.205.117'
+	option encrypt_method 'rc4-md5'
+	option server_port '15999'
+	option password '083107'
+
+config servers
+	option alias 'SS-HK2'
+	option fast_open '0'
+	option timeout '60'
+	option server '203.78.141.141'
+	option encrypt_method 'rc4-md5'
+	option server_port '15999'
+	option password '083107'
+
+config servers
+	option alias 'SS-Free'
+	option fast_open '0'
+	option timeout '60'
+	option server '45.62.231.129'
+	option encrypt_method 'rc4-md5'
+	option server_port '15999'
+	option password '083107'
+
+config servers
+	option alias 'SS-Free2'
+	option fast_open '0'
+	option timeout '60'
+	option server '64.137.163.27'
+	option encrypt_method 'rc4-md5'
+	option server_port '15999'
+	option password '083107'
+
+config access_control
+	option self_proxy '1'
+	list wan_bp_ips '0.0.0.0/1'
+	list wan_bp_ips '128.0.0.0/1'
+
