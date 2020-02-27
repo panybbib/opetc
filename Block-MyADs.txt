@@ -34,20 +34,20 @@
 ||http://tracking.miui.com
 ||https://data.mistat.xiaomi.com
 ||https://tracking.miui.com
-!播放出现问题时  可以删减 此区域的 Host 地址
+! 播放出现问题时  可以删减 此区域的 Host 地址
 ||http://img.cdn.mvideo.xiaomi.com
 ||img.cdn.mvideo.xiaomi.com
 ||https://img.cdn.mvideo.xiaomi.com
 !=====  通用型：广告投放商 拦截规则  ====
-!友盟+
+! 友盟+
 ||http://umeng.com
 ||https://umeng.com
 ||umeng.com
-!酷云监播
+! 酷云监播
 ||http://ikuyun.com
 ||https://ikuyun.com
 ||kuyun.com
-!广东南方新媒体股份
+! 广东南方新媒体股份
 ||http://atianqi.com
 ||https://atianqi.com
 ||atianqi.com
@@ -57,18 +57,18 @@
 @@@@https://vv.play.aiseet.atianqi.com
 @@@@https://e.crashlytics.com
 @@http://e.crashlytics.com
-!银河互联网电视
+! 银河互联网电视
 ||auth.api.gitv.tv
 ||appstore.ptmi.gitv.tv
 ||gamecenter.ptmi.gitv.tv
 @@http://pl.cp31.ott.cibntv.net
-! 上海贞安精硕广告有限公司
+! 上海贞安精硕广告
 ||admaster.com.cn
 ||v.admaster.com.cn
 ||79t2.admaster.com.cn
 ||397c0.admaster.com.cn
 ! 小米电视去广告结束
-! 屏蔽优酷广告
+! 优酷广告
 ||atm.youku.com^
 ||fvid.atm.youku.com^
 ||html.atm.youku.co^
@@ -96,7 +96,7 @@
 ||adcontroL.tudou.com^
 ||stat.tudou.com^
 ||mmstat.com^
-! 屏蔽优酷广告结束
+! 优酷广告结束
 ! speedtest.cn (国内)
 @@@@https://forge.speedtest.cn
 ! 淘宝，天猫其余部分域名放行
@@ -105,11 +105,11 @@
 @@@@https://img.alicdn.com
 ! paypal API放行
 @@@@https://api-m.paypal.com
-!百度网盘登录
+! 百度网盘登录
 @@@@https://passport.baidu.com
 @@@@https://pan.baidu.com
 @@@@https://d.pcs.baidu.com
-!支付宝苹果设备放行
+! 支付宝苹果设备放行
 @@@@https://mygw.alipay.com
 !微信公众号放行
 @@@@https://mmbiz.qpic.cn
@@ -142,7 +142,7 @@
 @@@@https://mobile-login.xunlei.com
 @@@@https://mobile-login-2.xunlei.com
 @@@@https://mobile-login-3.xunlei.com
-!阿里云搜索放行
+! 阿里云搜索放行
 @@@@https://oa-panther.data.aliyun.com
 @@@@https://promotion.aliyun.com
 ! LOFTER(乐乎) 无法显示登陆框
@@ -153,14 +153,14 @@
 ! 谷歌云gcp日志放行
 @@@@https://console.cloud.google.com
 @@@@||https://clients6.google.com
-!网易我的世界客户端放行
+! 网易我的世界客户端放行
 @@@@||https://netease.com
-!ios谷歌相册备份放行
+! ios谷歌相册备份放行
 @@@@|https://photos.googleapis.com
 ! 126 163邮箱放行
 @@@@||https://126.com
 @@@@||https://163.com
-!游民星空
+! 游民星空
 ||https://ja1.gamersky.com
 ||https://ja2.gamersky.com
 !恩山
@@ -231,7 +231,7 @@
 ||https://taboola.com/
 ||https://api.callget.cn/mediaAdLoad?tt=
 @@@@https://prod-u.ishuhui.com
-!美团外卖 Apple
+! 美团外卖 Apple
 @@@@https://catdot.dianping.com
 @@@@https://report.meituan.com
 @@@@https://api-unionid.meituan.com
