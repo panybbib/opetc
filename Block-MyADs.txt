@@ -38,7 +38,7 @@
 ||http://img.cdn.mvideo.xiaomi.com
 ||img.cdn.mvideo.xiaomi.com
 ||https://img.cdn.mvideo.xiaomi.com
-!=====  通用型：广告投放商 拦截规则  所有电视都可以用 ====
+!=====  通用型：广告投放商 拦截规则  ====
 !友盟+
 ||http://umeng.com
 ||https://umeng.com
@@ -99,9 +99,6 @@
 ! 屏蔽优酷广告结束
 ! speedtest.cn (国内)
 @@@@https://forge.speedtest.cn
-! 远景论坛
-||bbs.pcbeta.com$s@{width:980px; position:relative; height:171px; padding:10px;@{width:0px; position:relative; height:0px; padding:0px;@
-||bbs.pcbeta.com$s@{padding:9px;width:980px;height:4??px;@{padding:9px;width:980px;height:260px;@
 ! 淘宝，天猫其余部分域名放行
 @@@@https://ecpm.tanx.com
 @@@@https://g.alicdn.com
@@ -136,8 +133,6 @@
 ||https://t5i0pb.cn
 |https://m.x23us.com/wap/ajax.js
 |https://m.x23us.com/wap/read.js
-! 网易
-||https://www.163.com##div[class^="mod_index_ad"],[class^="mod_r_ad"],[class^="hp_textlink_ad"],[class^="mod_ad_text"],[class^="head_ad"],[class="yc_ft"]
 ! 360杀毒更新
 @@http://sdup.update.360safe.com
 @@@@https://sdup.update.360safe.com
@@ -153,19 +148,12 @@
 ! LOFTER(乐乎) 无法显示登陆框
 @@http://urswebzj.nosdn.127.net
 @@http://analytics.163.com
-! v2ex.com
-![In reply to 白告]
-||https://v2ex.com###Rightbar > DIV.box:nth-child(4)
-||https://v2ex.com###Rightbar > DIV.box:nth-child(6)
-||https://v2ex.com###Rightbar > DIV.sep20:nth-child(5)
-||https://v2ex.com###Rightbar > DIV.sep20:nth-child(3)
-||https://v2ex.com###Wrapper > DIV.content > DIV.box:last-child
 ! 快递100放行
 @@@@||https://p.kuaidi100.com
 ! 谷歌云gcp日志放行
 @@@@https://console.cloud.google.com
 @@@@||https://clients6.google.com
-!网易我的世界客户端, [6/11/19, 00:46 AM]
+!网易我的世界客户端放行
 @@@@||https://netease.com
 !ios谷歌相册备份放行
 @@@@|https://photos.googleapis.com
@@ -175,17 +163,12 @@
 !游民星空
 ||https://ja1.gamersky.com
 ||https://ja2.gamersky.com
-||https://gamersky.com##div[class="ad_r"],[class="MidR_ad"]
 !恩山
 ||https://right.com.cn##.a_t,div#diy1.area,div.a_p,div.a_pr,DIV.column.frame-1-c,div.wp.a_f,div.a_cn,.a_mu,.a_pt,.a_pb,div.wp.a_h
-||https://right.com.cn##img[src^="static/image/common/logo2.gif"]
 ||https://right.com.cn/logo/*.gif$image
-!威锋
-|https://bbs.feng.com##DIV[class="wrap"],[class^="a_pt"]
 ! 简书广告
 ||https://jianshu.com###web-note-ad-fixed
 ||https://jianshu.com###web-note-ad-1
-||https://jianshu.com##div[class="recommended-author-wrap"]
 ||https://static.thefifthera.com/h5/wapSdk/asset/sdk
 ||https://jianshu.com###recommended-notes
 ! YouTube 网页版
@@ -198,40 +181,19 @@
 ! 百度文库去广告
 ||https://baidu.com/xpage/interface/get
 ||https://eduad.baidu.com^
-||https://wk.baidu.com##div[class="bottom-bar-global"]
 ||https://cpro.baidustatic.com^
 |https://wkstatic.bdimg.com/static/wkview/widget/ad
 |https://wenku.baidu.com/view$s@/third_party/fengchao_plugin@/third_party@
 |https://wk.baidu.com/view$s@component/foldPage@component@
 ! 手机百度首页去广告
-|https://www.baidu.com##div[class="center-content"]
-|https://m.baidu.com##div[class="center-content"]
 |https://m.baidu.com###index-box
 |https://www.baidu.com###index-box
-|https://www.baidu.com##div[class="baiduappcall-wrap"]
-|https://m.baidu.com##div[class="baiduappcall-wrap"]
-|https://www.baidu.com###header > div:nth-child(7) > div
-|https://m.baidu.com###header > div:nth-child(7) > div
 |https://www.baidu.com##.index-banner.square-banner-icon
-|https://www.baidu.com###index-card > div.blank-frame
-! 新浪邮箱
-||https://mail.sina.com.cn##div[class="connMod"]
-||https://mail.sina.com.cn##div[class="ad1"]
-||https://mail.sina.com.cn##div[class="extendAd"]
 ! 百度搜索广告
 @@@@https://ss1.bdstatic.com
 |https://ss1.bdstatic.com/*/r/www/cache/static/protocol/https/global/js
-! 殁漂遥
-||https://mpyit.com###sidebar > div > div[class="box"]
-||https://mpyit.com/$s@<h3>合作伙伴</h3>@@
-! 91wii
-||https://91wii.com##img[id^="img_"],div[class^="a_"],[style^="display:inline-block;"]
 ! 搜狗输入法
 @@http://config.pinyin.sogou.com
-!笔趣阁小说
-|https://m.biqule.com$s@else if (n > radm.ad0 && n <= radm.ad1)@else if (1 <= 0)@
-|https://m.biqule.com$s@if (n <= radm.ad0)@if (1 <= 0)@
-|https://m.shouyunvip.com$s@^(function(){var*}@(function(){}@
 ! 天猫精灵放行
 @@@@||https://g-aicloud.alibaba.com
 @@@@||https://asr-aicloud.alibaba.com
@@ -268,19 +230,10 @@
 ||https://bd-js.baixing.net/
 ||https://taboola.com/
 ||https://api.callget.cn/mediaAdLoad?tt=
-||https://m.mydrivers.com##div[style="padding:0px 0px 0px 0px;text-align:center;"]
 @@@@https://prod-u.ishuhui.com
-! BT之家
-|https://btbtt.us$s@background:url('/view/image/QT_QT.jpg')@background@
-|https://btbtt.us$s@function createA(options)@function xxx(fuck Ad)@
-|https://btbtt.us$s@display:block@display:none@
 !美团外卖 Apple
 @@@@https://catdot.dianping.com
 @@@@https://report.meituan.com
 @@@@https://api-unionid.meituan.com
-! Hulu Browser [Block ads on Hulu's base plan.][19.08.19]
-! Chrome Extension Author:Connor Virostek
-|https://player.hulu.com$r@*/app.js@https://dev.tencent.com/u/shaoxia1991/p/hide_js/git/raw/master/hulu/app.js@
-|https://player.hulu.com$r@*/external.js@https://dev.tencent.com/u/shaoxia1991/p/hide_js/git/raw/master/hulu/external.js@
-! Prime Video [Exclusion][19.08.19]
+! Prime Video
 @@@@||https://www.primevideo.com
