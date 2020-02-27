@@ -165,7 +165,6 @@
 ||https://ja2.gamersky.com
 ! 恩山
 ||https://right.com.cn##.a_t,div#diy1.area,div.a_p,div.a_pr,DIV.column.frame-1-c,div.wp.a_f,div.a_cn,.a_mu,.a_pt,.a_pb,div.wp.a_h
-||https://right.com.cn/logo/*.gif$image
 ! 简书广告
 ||https://jianshu.com###web-note-ad-fixed
 ||https://jianshu.com###web-note-ad-1
@@ -205,13 +204,6 @@
 @@@@|https://mime.baidu.com
 ! 有道云笔记
 @@@@|https://note.youdao.com
-! 抖音國際版解鎖改版?
-||https://tiktokv.com/$r@_region=CN@_region=JP@
-||https://byteoversea.com/$r@_region=CN@_region=JP@
-||https://musical.ly/$r@_region=CN@_region=JP@
-!||https://tiktokv.com/$r@tz_name=Asia/Shanghai@tz_name=Asia/Tokyo@
-||https://tiktokv.com/$r@sim_region=CN@sim_region=jp@
-||https://tiktokv.com/$r@is_my_cn=1@is_my_cn=0@
 ! 美区抖音去水印下载
 ||https://musical.ly/$r@&watermark=1@@
 ! 日区抖音去水印下载
