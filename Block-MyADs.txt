@@ -163,7 +163,7 @@
 ! 游民星空
 ||https://ja1.gamersky.com
 ||https://ja2.gamersky.com
-!恩山
+! 恩山
 ||https://right.com.cn##.a_t,div#diy1.area,div.a_p,div.a_pr,DIV.column.frame-1-c,div.wp.a_f,div.a_cn,.a_mu,.a_pt,.a_pb,div.wp.a_h
 ||https://right.com.cn/logo/*.gif$image
 ! 简书广告
