@@ -117,9 +117,6 @@
 ! IT之家
 @@@@https://api.ithome.com
 @@@@https://dyn.ithome.com
-! 小说网站补充
-|http://m.quduwv.com/17mb/script/wap*
-|http://m.quduwv.com/yukeqwer
 ! PSN CDN放行
 @@@@https://gss0.bdstatic.com
 @@@@https://gss1.bdstatic.com
